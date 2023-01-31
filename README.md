@@ -8,8 +8,8 @@
 
 </h1>
 
- * [![PyPI - Version](https://img.shields.io/pypi/v/pyHiroshiX?style=round)](https://pypi.org/project/pyRiZoeLX) 
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyHiroshiX?label=DOWNLOADS&style=round)](https://pypi.org/project/pyRiZoeLX) 
+ * [![PyPI - Version](https://img.shields.io/pypi/v/pyHiroshiX?style=round)](https://pypi.org/project/pyHiroshiX) 
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyHiroshiX?label=DOWNLOADS&style=round)](https://pypi.org/project/pyHiroshiX) 
 
 ----
 
@@ -18,23 +18,23 @@
 <h4> Installation </h4>
 
 ```python 
-pip3 install pyRiZoeLX
+pip3 install pyHiroshiX
 ```
 
 <h4> Import functions </h4>
 
 ``` python
-from RiZoeLX.functions import <functions name>
+from HiroshiX.functions import <functions name>
 ```
 
 <h4> Functions available: </h4>
 
- > [Click Here](https://github.com/RiZoeLX/pyRiZoeLX/tree/main/RiZoeLX/functions#-functions-available-) </b> 
+ > [Click Here](https://github.com/vanostrax/pyHiroshiX/tree/main/HiroshiX/functions#-functions-available-) </b> 
 
 <h3> Example. </h3>
 
 ``` python
-from RiZoeLX.functions import ban_user
+from HiroshiX.functions import ban_user
 from pyrogram import Client, filters 
 from pyrogram.types import Message
 
