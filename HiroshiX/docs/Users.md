@@ -1,4 +1,4 @@
-<h1> • pyRiZoeLX </h1>
+<h1> • pyHiroshiX </h1>
 <h2 align='center'> Module Name: Users </h2>
 
 <h3><code>get_user()</code></h3>
@@ -6,7 +6,7 @@
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import get_user
+from HiroshiX.funtions import get_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -21,7 +21,7 @@ async def user_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import get_user
+from HiroshiX.funtions import get_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -36,7 +36,7 @@ async def user_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import get_info
+from HiroshiX.funtions import get_info
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -50,7 +50,7 @@ async def info_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import get_id
+from HiroshiX.funtions import get_id
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
