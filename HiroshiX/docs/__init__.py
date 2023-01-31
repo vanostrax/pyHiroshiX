@@ -1,3 +1,3 @@
-res_devs = "RiZoeL|Mahipal|Akash|TheRiZoeL|TheVenomXD"
+res_devs = "Hiroshi|RiZoeL|Mahipal|Akash|TheRiZoeL|TheVenomXD"
 
-res_grps = [1517994352, 1789859817, -1001321613309, 1321613309, 1001749467927, 1749467927]
+res_grps = [1139515427, 5833374877, -1001896051491, 1517994352, 1789859817]
