@@ -1,19 +1,19 @@
 <p align="center">
-   <a href="https://github.com/RiZoeLX">
-      <img src="RiZoeLX/data/RiZoeLX.png" alt="RiZoeLX" width="300" aligne='centre'>
+   <a href="https://github.com/HiroshiX">
+      <img src="HiroshiX/data/asoyy.png" alt="HiroshiX" width="300" aligne='centre'>
    </a>
 </p>
 <h1 align="center">
-   <b> pyRiZoeLX </b> <br>  
+   <b> pyHiroshiX </b> <br>  
 
 </h1>
 
- * [![PyPI - Version](https://img.shields.io/pypi/v/pyRiZoeLX?style=round)](https://pypi.org/project/pyRiZoeLX) 
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyRiZoeLX?label=DOWNLOADS&style=round)](https://pypi.org/project/pyRiZoeLX) 
+ * [![PyPI - Version](https://img.shields.io/pypi/v/pyHiroshiX?style=round)](https://pypi.org/project/pyRiZoeLX) 
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/pyHiroshiX?label=DOWNLOADS&style=round)](https://pypi.org/project/pyRiZoeLX) 
 
 ----
 
-<b>About:</b> pyRiZoeLX have many useful functions, that you can use in your repos/repostory. It'll make you code/bot smooth and fast!
+<b>About:</b> pyHiroshiX have many useful functions, that you can use in your repos/repostory. It'll make you code/bot smooth and fast!
 
 <h4> Installation </h4>
 
