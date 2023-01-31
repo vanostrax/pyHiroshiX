@@ -1,9 +1,9 @@
-<h2> pyRiZoeLX - RiZoeLX </h2>
+<h2> pyHiroshiX - HiroshiX </h2>
 
 <h3> Example. </h3>
 
 ``` python
-from RiZoeLX.functions import ban_user
+from HiroshiX.functions import ban_user
 from pyrogram import Client, filters 
 from pyrogram.types import Message
 
