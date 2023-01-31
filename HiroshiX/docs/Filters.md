@@ -1,4 +1,4 @@
-<h1> • pyRiZoeLX </h1>
+<h1> • pyHiroshiX </h1>
 <h2 align='center'> Module Name: Custom Filters </h2>
 
 <h3><code>sudo_filter()</code></h3>
@@ -6,7 +6,7 @@
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.functions import sudo_filter 
+from HiroshiX.functions import sudo_filter 
 from pyrogram import Client
 
 Sudo_users = [1111111111, 1111111111]
@@ -21,7 +21,7 @@ async def Sudo_():
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.functions import me_filter 
+from HiroshiX.functions import me_filter 
 from pyrogram import Client
 
 @Client.on_message(me_filter("hi"))
@@ -34,7 +34,7 @@ async def me_():
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.functions import private_filter 
+from HiroshiX.functions import private_filter 
 from pyrogram import Client
 
 @Client.on_message(private_filter("hi"))
@@ -47,7 +47,7 @@ async def private_():
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.functions import group_filter 
+from HiroshiX.functions import group_filter 
 from pyrogram import Client
 
 @Client.on_message(group_filter("hi"))
@@ -60,7 +60,7 @@ async def group_():
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.functions import media_filter 
+from HiroshiX.functions import media_filter 
 from pyrogram import Client
 
 @Client.on_message(media_filter())
