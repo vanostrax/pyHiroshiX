@@ -1,4 +1,4 @@
-<h1> • pyRiZoeLX </h1>
+<h1> • pyHiroshiX </h1>
 <h2 align='center'> Module Name: Admins</h2>
 
 <h3><code>broadcast_()</code></h3>
@@ -6,7 +6,7 @@
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import broadcast_
+from HiroshiX.funtions import broadcast_
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -19,7 +19,7 @@ async def broadcast(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import purge_
+from HiroshiX.funtions import purge_
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -33,7 +33,7 @@ async def purge(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import srape
+from HiroshiX.funtions import srape
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -49,7 +49,7 @@ async def sraper_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import custom_welcome
+from HiroshiX.funtions import custom_welcome
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -63,7 +63,7 @@ async def _welcome(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import makelist_
+from HiroshiX.funtions import makelist_
 
 ids = "1111111111, 2222222222, 3333333333"
 Users = makelist_(ids)
@@ -75,7 +75,7 @@ Users = makelist_(ids)
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import start_banall
+from HiroshiX.funtions import start_banall
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -91,7 +91,7 @@ async def banall_members(Client, Message):
 <b> Library: </b> Pyrogram
 
 ``` python 
-from RiZoeLX.funtions import Red7_Watch
+from HiroshiX.funtions import Red7_Watch
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -104,7 +104,7 @@ async def TeamRed7(Client, Message):
 <b> Library: </b> Pyrogram
 
 ``` python 
-from RiZoeLX.funtions import Red7_Watch_telethon
+from HiroshiX.funtions import Red7_Watch_telethon
 from .. import bot
 from telethon import events
 
