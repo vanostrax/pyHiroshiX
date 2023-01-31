@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/HiroshiX">
-      <img src="HiroshiX/data/asoyy.png" alt="HiroshiX" width="300" aligne='centre'>
+      <img src="HiroshiX/data/asoyy.jpg" alt="HiroshiX" width="300" aligne='centre'>
    </a>
 </p>
 <h1 align="center">
