@@ -1,4 +1,4 @@
-<h1> • pyRiZoeLX </h1>
+<h1> • pyHiroshiX </h1>
 <h2 align='center'> Module Name: Admins</h2>
 
 <h3><code>ban_user()</code></h3>
@@ -6,7 +6,7 @@
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import ban_user
+from HiroshiX.funtions import ban_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -20,7 +20,7 @@ async def ban_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import unban_user
+from HiroshiX.funtions import unban_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -34,7 +34,7 @@ async def unban_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import promote_user
+from HiroshiX.funtions import promote_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -48,7 +48,7 @@ async def promote_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import demote_user
+from HiroshiX.funtions import demote_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -62,7 +62,7 @@ async def demote_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import mute_user
+from HiroshiX.funtions import mute_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
@@ -76,7 +76,7 @@ async def mute_(Client, Message):
 <b> usage: </b> 
 
 ``` python 
-from RiZoeLX.funtions import unmute_user
+from HiroshiX.funtions import unmute_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
