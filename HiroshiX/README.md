@@ -1,12 +1,12 @@
-<h2> pyRiZoeLX by RiZoeLX </h2>
+<h2> pyHiroshiX by HiroshiX </h2>
 
-pyRiZoeLX is pyrogram based pip module for smooth functioning of telegram bots
+pyHiroshiX is pyrogram based pip module for smooth functioning of telegram bots
 
 
 <h3> Example! </h3>
 
 ``` python
-from RiZoeLX.functions import promote_user
+from HiroshiX.functions import promote_user
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
