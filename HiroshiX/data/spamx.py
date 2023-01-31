@@ -1,5 +1,5 @@
 """ 
-   This File is for RiZoeLX/SpamX
+   This File is for HiroshiX/SpamX
    Data's of SpamX!
 """
 
